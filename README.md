@@ -6,11 +6,11 @@ Key Features:-
 
 Input Variables:
 
-State/Subdivision: The geographic region within India.
+-State/Subdivision: The geographic region within India.
 
-Month: The specific month for which rainfall is predicted.
+-Month: The specific month for which rainfall is predicted.
 
-Year: The year of interest.
+-Year: The year of interest.
 
 Data Preparation:
 
