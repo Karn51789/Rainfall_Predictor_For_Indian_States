@@ -2,8 +2,10 @@ Rainfall Prediction Model Overview:
 
 This project builds a machine learning model to predict monthly rainfall amounts for different Indian subdivisions (states/cities) based on historical rainfall data from 1901 to 2015.
 
-Key Features:
+Key Features:-
+
 Input Variables:
+
 State/Subdivision: The geographic region within India.
 Month: The specific month for which rainfall is predicted.
 Year: The year of interest.
